@@ -1,6 +1,6 @@
 # tokyo-olympic-data
 
-Project Outcomes:
+Project Outcomes:\n
 Understanding the 2021 Olympics dataset
 Creating Azure Resource Group
 Creating Azure Storage account
